@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Project\\": "classes"
+    }
+  },
+  "require": {
+    "ext-mysqli": "*"
+  }
+}
